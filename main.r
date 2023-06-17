@@ -74,7 +74,7 @@ MODIStsp::MODIStsp(
     gui = F,
     out_folder = main,
     out_folder_mod = main,
-    selprod = "LandCover_type_Yearly_500m (MCD12Q1)",
+    selprod = "LandCover_Type_Yearly_500m (MCD12Q1)",
     bandsel = "LC1",
     user = "", #please set your user name
     password = "", # please set your password
